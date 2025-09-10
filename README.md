@@ -1,5 +1,5 @@
 # Biomedical-Imaging-Projects
-This repository includes all of my coding in MATLAB that was done for medical Imaging
+This repository includes all of my coding in MATLAB that was done for Medical Imaging
 
 Matlab-Projects/
 
